@@ -151,6 +151,7 @@ _____________*/
    
     .container{
         width: 100%;
+        padding: 0px;
     }
     
     .players, .blogs{
